@@ -1,3 +1,5 @@
+![Banner](RFID.jpg)
+
 # RFID
 RFID library for manage Card IDs in AVR/STM32 ARM microcontroller.
 
@@ -27,7 +29,5 @@ RFID library for manage Card IDs in AVR/STM32 ARM microcontroller.
 - Read Card function
 - Remove Card function (2 Mode)
 - Full memory management
--
--
 
 #### Developer: Majid Derhambakhsh
